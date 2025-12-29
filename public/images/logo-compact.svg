@@ -1,0 +1,12 @@
+<svg width="140" height="40" viewBox="0 0 140 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main circle with CS -->
+  <circle cx="20" cy="20" r="16" fill="#6366f1" stroke="white" stroke-width="2.5"/>
+  <text x="20" y="26" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">CS</text>
+  
+  <!-- CODESTRIX text -->
+  <text x="45" y="24" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="start" letter-spacing="1.5">CODESTRIX</text>
+  
+  <!-- Tagline -->
+  <text x="45" y="33" font-family="Arial, sans-serif" font-size="6" fill="white" text-anchor="start" letter-spacing="0.5" opacity="0.7">CODE CREATE CONQUER</text>
+</svg>
+
